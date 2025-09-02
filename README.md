@@ -1,19 +1,19 @@
 Calculadora de Conversão 📱🧮
-Projeto desenvolvido para a disciplina Programação para Dispositivos Móveis II — Faculdade, 5º semestre.
+Projeto desenvolvido para a disciplina Programação para Dispositivos Móveis II.
 
 Descrição
-Calculadora moderna feita em React Native, capaz de realizar conversões práticas para o dia a dia:
+Calculadora feita em React Native, capaz de realizar conversões práticas para :
 
 Temperatura: ºC para ºF
 
 Velocidade: km/h para mph
 
-Criada com foco em usabilidade, design atraente e boas práticas de componentização.
+Criada com foco em usabilidade, design atraente e utilizando a componentização.
 
 Funcionalidades
 Conversão precisa com até 4 casas decimais
 
-Layout responsivo e colorido
+Layout responsivo com cores destacantes uma da outra
 
 Separação em componentes reutilizáveis
 
